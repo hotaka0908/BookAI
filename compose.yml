@@ -1,0 +1,7 @@
+services:
+  review:
+    image: vvakame/review:5.9
+    volumes:
+      - ./articles:/work
+    working_dir: /work
+    command: review-pdfmaker config.yml

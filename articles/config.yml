@@ -1,0 +1,51 @@
+# Re:VIEW設定ファイル
+
+review_version: 5.0
+
+# ブック名
+bookname: AIデバイス未来考察
+
+# 記述言語
+language: ja
+
+# 書名
+booktitle: "AIデバイス未来考察"
+
+# 著者名
+aut: ["船橋 穂天"]
+
+# 発行日
+date: "2026-03-10"
+
+# 権利表記
+rights: (C) 2026 船橋 穂天
+
+# 目次として抽出する見出しレベル
+toclevel: 3
+
+# 本文でセクション番号を表示する見出しレベル
+secnolevel: 3
+
+# 本文中に目次ページを作成するか
+toc: true
+
+# 大扉ページを作成するか
+titlepage: true
+
+# 奥付を作成するか
+colophon: true
+
+# CSSファイル
+stylesheet: ["style.css"]
+
+# ページ送りの方向
+direction: "ltr"
+
+# LaTeX用のスタイルファイル
+texstyle: ["reviewmacro"]
+
+# LaTeX用のdocumentclass (B5)
+texdocumentclass: ["review-jsbook", "media=ebook,paper=b5,serial_pagination=true,openany,fontsize=10pt,baselineskip=15.4pt,line_length=40zw,number_of_lines=35,head_space=30mm,headsep=10mm,headheight=5mm,footskip=10mm"]
+
+pdfmaker:
+  colophon: true

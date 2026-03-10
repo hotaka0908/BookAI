@@ -1,0 +1,25 @@
+# Generated files
+*.pdf
+*.dvi
+*.aux
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*~
+
+# Re:VIEW build files
+articles/__REVIEW_BOOK__*
+articles/*.tex
