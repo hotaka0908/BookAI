@@ -10,4 +10,4 @@
 
 では、はじまりはじまり。
 
-//indepimage[history-interface]
+//indepimage[history-interface][][scale=0.9]
