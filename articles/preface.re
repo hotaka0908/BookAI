@@ -13,3 +13,5 @@
 //indepimage[CLI]
 
 //indepimage[GUI]
+
+//indepimage[touch]
