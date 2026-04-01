@@ -10,4 +10,4 @@
 
 では、はじまりはじまり。
 
-//indepimage[CLI][][scale=0.9]
+//indepimage[CLI]
