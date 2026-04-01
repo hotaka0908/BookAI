@@ -126,8 +126,6 @@ AIイヤホン型は、既に多くの人が日常的に使用しているイヤ
 
 @<b>{Google AIスマートグラス}：Samsung、Gentle Monster、Warby Parkerと共同開発。2026年に2モデル展開予定。Gemini搭載で道案内やリアルタイム翻訳に対応。
 
-@<b>{Cellid HJ1 AI Smart Glasses}：日本のCellid社がFoxconnグループと共同開発。超薄型ウェーブガイドディスプレイを搭載し、AIアシスタントやARナビに対応。CES 2026で展示。
-
 @<b>{Ray-Ban Meta Gen 2}：MetaがRay-Banと共同開発した第2世代スマートグラス。初の度付きレンズ対応AIメガネとして注目を集める。Blayzer OpticsとScriber Opticsの2モデル展開で、Meta AI搭載。日本での発売計画もあり。499ドルから。
 
 === スマートホームAI
