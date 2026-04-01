@@ -11,3 +11,5 @@
 では、はじまりはじまり。
 
 //indepimage[CLI]
+
+//indepimage[GUI]
