@@ -301,6 +301,8 @@ AIデバイスにとって通知は不要で、ユーザーに届けるものは
 
 =[nonum] 文章ひと休み　OpenClaw
 
+//image[openclaw][OpenClaw]
+
 2026年、AIエージェントがチャットボックスから物理世界へと踏み出す年になった。その中心にいるのがOpenClawである。
 
 === OpenClawとは
